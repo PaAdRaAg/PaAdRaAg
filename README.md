@@ -122,9 +122,9 @@ Me interesa participar en proyectos donde pueda aportar en:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PaAdRaAg&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PaAdRaAg&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaAdRaAg&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaAdRaAg&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
