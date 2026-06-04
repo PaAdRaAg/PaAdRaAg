@@ -130,29 +130,6 @@ Me interesa participar en proyectos donde pueda aportar en:
 
 ---
 
-## 🔥 Proyecto destacado en desarrollo
-
-### Gate Yard Operations
-
-Sistema web para la gestión de citas de ingreso, check-in, check-out y control operativo de vehículos dentro de un recinto.
-
-El sistema permite registrar transportistas, unidades, operadores, citas programadas y eventos de acceso. También contempla un tablero administrativo con filtros por fecha, estatus, tipo de carga y unidad, además de una vista de detalle por vehículo con historial completo de movimientos.
-
-**Stack propuesto:**
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
----
-
 ## 📫 Contacto
 
 <p>
